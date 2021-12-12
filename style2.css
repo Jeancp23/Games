@@ -1,0 +1,8 @@
+body {background: white;}
+h1, h2, a, table, th, td, tr, caption { font-family: unset;}
+h1 {color:  black; font-size: 20px;}
+h2, a {color:  black; font-size: 40px;}
+hr {width: 1300;height: 1; background:  red} 
+th, {color:#FDF5E6; padding: 20px;} 
+ table, td, th {border:10px red solid;} 
+table {border-collapse:#FF0000;}

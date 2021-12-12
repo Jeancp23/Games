@@ -1,0 +1,10 @@
+body {background: red}
+h1, h2, a, table, th, td, tr, caption { font-family: unset;}
+h1 {color:  white; font-size: 20px;}
+h2, a {color:  white; font-size: 40px;}
+h3 { color: white;font-size: 20px;}
+hr {width: 1300;height: 1; background:  white} 
+th, {background: black; color:white; font-size:10px;} 
+/* Tabla */ 
+img {background: white;}
+{background:white; padding:20px;} 
